@@ -5,7 +5,7 @@ Webscraping associated with a little spice of machine learning to find patterns 
 You can also add images with simple HTML tags:
 
 <p align="center">
-  <img src="https://github.com/llemonS/ML_Siena/blob/master/anopre%C3%A7o_.png?raw=true" width="350" title="hover text">
+  <img src="https://github.com/llemonS/ML_Siena/blob/master/anopre%C3%A7o_.png?raw=true">
 </p>
 # First things first
 There is a snippet of code used for webscraping purposes collecting announced cars properties as price, mileage, year, etc.
