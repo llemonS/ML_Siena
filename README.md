@@ -5,7 +5,7 @@ Webscraping associated with a little spice of machine learning to find patterns 
 # First things first
 There is a snippet of code used for webscraping purposes collecting announced cars properties as price, mileage, year, etc.
 
-# Database
+# Dataset
 As soon as you have enough data collected from any given car model, you can play with some data analysis, I tried to figure out any kind of pattern on the file carros.csv, and got some beautiful polynomial regression.
 
 # Also
